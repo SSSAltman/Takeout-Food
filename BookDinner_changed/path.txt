@@ -1,0 +1,11 @@
+后台管理界面
+http://localhost:8080/BookDinner_changed/system/index
+用户点餐界面
+http://localhost:8080/BookDinner_changed/home/index/index
+后台用户：
+admin admin
+卫宫士郎 123456(外卖员)
+123 123
+
+前台客户：
+salt 123456
